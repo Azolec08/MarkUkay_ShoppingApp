@@ -1,0 +1,19 @@
+.HideSidebar {
+  position: fixed;
+  right: -390px;
+  transition: all 500ms;
+  top: 2px;
+  width: 340px;
+}
+.ShowSidebar {
+  position: fixed;
+  right: 5px;
+  transition: all 500ms;
+  overflow-y: scroll;
+  top: 2px;
+  width: 340px;
+}
+
+.array {
+  height: 350px;
+}

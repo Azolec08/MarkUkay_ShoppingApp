@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Computer",
+    "price": 11199,
+    "img": "/images/titanic.jpg",
+    "Info": "Computer."
+  },
+  {
+    "id": 2,
+    "name": "Loptop",
+    "price": 31199,
+    "img": "/images/loptop.jpg",
+    "Info": "Loptop."
+  },
+  {
+    "id": 3,
+    "name": "Phone",
+    "price": 51199,
+    "img": "/images/iphone.jpg",
+    "Info": "Phone"
+  },
+  {
+    "id": 4,
+    "name": "Book",
+    "price": 2199,
+    "img": "/images/suka.jpeg",
+    "Info": "In A Divine Revelation of Hell, over a period of thirty nights, God gave Mary K. Baxter visions of hell and commissioned her to tell people still alive on earth to reject sin and evil, and to choose life in Christ. Here is an account of the place and beings of hell contrasted with the glories of heaven."
+  }
+]
